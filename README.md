@@ -25,3 +25,9 @@ Skills Section: A list of technical skills, tools, and technologies the individu
 Contact Section: Contact information such as email, phone, and optionally, a contact form.
 
 Resume Section: Optionally, a downloadable resume or CV.
+
+# OUTPUT #
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/f237b975-a8e0-48ab-b01a-83f4a5604fbd" />
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/ad50f2be-1c89-4ac4-adec-01384d2e3f6b" />
